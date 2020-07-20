@@ -16,6 +16,9 @@ body {
 img {
   max-width: 100%;
 }
+input, button {
+  outline: none;
+}
 .wrapper {
   max-width: 665px;
   margin: auto;
